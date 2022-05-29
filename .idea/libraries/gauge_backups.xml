@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="gauge-backups">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-08_224206.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-08_230420.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-08_223619.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-09_000033.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-09_000618.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-08_225110.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-08_234907.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gauge-backups/gauge-2022-05-09_124559.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
